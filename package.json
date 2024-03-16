@@ -1,0 +1,29 @@
+{
+  "name": "sub-addd-dispaly",
+  "version": "1.0.4",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ngoclannnn/sub-addd-dispaly.git"
+  },
+  "dependencies": {
+    "muontinh-suuummm": "1.0.4",
+    "tinhtong2sobangjs-lanha5886": "1.0.5",
+    "tieuvi-multi-sum": "1.0.4",
+    "thanhngoc44-synnn": "1.0.45",
+    "synnnn-thanhngoc44-sum": "1.0.4"
+    },
+ "homepage": "https://github.com/ngoclannnn/sub-addd-dispaly",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "ngoclannnn",
+  "license": "MIT"
+}
